@@ -1,1 +1,1 @@
-echo $"Ciao , Come stai....Siamo in italia"
+echo $"Ciao , Come stai....Siamo in italia.."
